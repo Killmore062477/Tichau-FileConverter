@@ -14,7 +14,7 @@ Pattern	| Description					| Example (with input path: *C:\Music\Artist\Album\Son
 (d0)	| Input parent folder name		| Album
 (d1)	| Input sub parent folder name	| Artist
 
-*Tips: You can use uppercase to retrieve caps lock informations. Example: (f) -> Default / (F) -> DEFAULT *
+*Tips: You can use uppercase to retrieve caps lock informations. Example: (f) -> Default / (F) -> DEFAULT*
 
 ### Examples
 
