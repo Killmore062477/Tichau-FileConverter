@@ -1,4 +1,4 @@
-Category 	 Supported output formats	| Compatible input formats
+Category 	| Supported output formats	| Compatible input formats
 ----------------|-------------------------------|----------------------------------------------------------------------------
  Audio		| flac, aac, ogg, mp3, wav	| 3gp, aiff, ape, avi, bik, cda, flac, flv, m4a, mkv, mov, mp3, mp4, ogg, wav, webm, wma, wmv
  Video		| mkv, avi			| 3gp, avi, bik, flv, mkv, mov, mp4, webm, wmv
