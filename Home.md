@@ -12,12 +12,14 @@ Welcome to the file converter wiki!
 
 [[Output file path template|Output file path template]]
 
+[[Troubleshooting|Troubleshooting]]
+
 ## Thanks
 
 File converter uses the following middlewares:
 
-**ffmpeg** as file conversion software.
-Thanks to ffmpeg devs for this awesome open source file conversion tool. [Web site link](https://www.ffmpeg.org/)
+**FFmpeg** as file conversion software.
+Thanks to FFmpeg devs for this awesome open source file conversion tool. [Web site link](https://www.ffmpeg.org/)
 
 **SharpShell** to easily create windows context menu extensions.
 Thanks to Dave Kerr for his work on SharpShell. [CodePlex link](https://sharpshell.codeplex.com/)
@@ -25,7 +27,7 @@ Thanks to Dave Kerr for his work on SharpShell. [CodePlex link](https://sharpshe
 **Ripper** and **yeti.mmedia** for CD Audio extraction.
 Thanks to Idael Cardoso for his work on CD Audio ripper. [Code project link](http://www.codeproject.com/Articles/5458/C-Sharp-Ripper)
 
-**Markdown.XAML** for markdown rendering in the wpf application.
+**Markdown.XAML** for markdown rendering in the WPF application.
 Thanks to Bevan Arps for his work on Markdown.XAML. [GitHub link](https://github.com/theunrepentantgeek/Markdown.XAML)
 
 ## License
