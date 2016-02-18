@@ -21,6 +21,10 @@ File converter uses the following middlewares:
 **FFmpeg** as file conversion software.
 Thanks to FFmpeg devs for this awesome open source file conversion tool. [Web site link](https://www.ffmpeg.org/)
 
+**ImageMagick** as image edition and conversion software.
+Thanks to image magick devs for this awesome open source image edition software suite.  [Web site link](http://imagemagick.net/)
+And thanks to dlemstra for the C# wrapper of this software. [CodePlex link](https://magick.codeplex.com/)
+
 **SharpShell** to easily create windows context menu extensions.
 Thanks to Dave Kerr for his work on SharpShell. [CodePlex link](https://sharpshell.codeplex.com/)
 
