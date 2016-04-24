@@ -6,11 +6,11 @@ Welcome to the file converter wiki!
 
 ## Documentation
 
-[[Supported file formats|Supported file formats]]
+[[List of supported file formats|Supported file formats]]
 
 [[Input file post conversion actions|Input file post conversion actions]]
 
-[[Output file path template|Output file path template]]
+[[Generate a custom output file path|Output file path template]]
 
 [[Troubleshooting|Troubleshooting]]
 
