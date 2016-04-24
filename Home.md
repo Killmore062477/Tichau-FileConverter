@@ -8,7 +8,7 @@ Welcome to the file converter wiki!
 
 [[List of supported file formats|Supported file formats]]
 
-[[Input file post conversion actions|Input file post conversion actions]]
+[[Actions available on input files (after successful conversion)|Input file post conversion actions]]
 
 [[Generate a custom output file path|Output file path template]]
 
