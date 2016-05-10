@@ -1,7 +1,3 @@
-Welcome to the file converter wiki!
-
-## Description
-
 **File Converter** is a very simple tool which allows you to convert one or several file(s) using the context menu in windows explorer.
 
 ## Documentation
