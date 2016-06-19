@@ -1,5 +1,9 @@
 **File Converter** is a very simple tool which allows you to convert one or several file(s) using the context menu in windows explorer.
 
+## Help
+
+[[How to create a new custom preset?]]
+
 ## Documentation
 
 [[List of supported file formats|Supported file formats]]
