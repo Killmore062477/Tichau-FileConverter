@@ -1,4 +1,4 @@
-In the next version of File Converter (v1.1) there will be a localization system that will automatically translate the application depending on the language set in Windows as your default language. This language will be overridable in the application options.
+In the next version of File Converter (v1.1) there will be a localization system that will automatically translate the application depending on the language set in Windows. This language will be overridable in the application options.
 
 You can help File Converter adding new supported languages to the application. Here is the step to follow:
 
