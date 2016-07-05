@@ -14,6 +14,10 @@
 
 [[Troubleshooting|Troubleshooting]]
 
+## Contribute
+
+[[Localization]]
+
 ## License
 
 File Converter is licensed under the GPL version 3 License.
