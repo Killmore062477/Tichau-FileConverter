@@ -1,18 +1,20 @@
-This template allow you to define how you want to generate the output file path (depending on the input file path).
+This template allows you to define how you want to generate the output file path (depending on the input file path).
 You have access to the following informations:
 
 Pattern	| Description					| Example (with input path: *C:\Music\Artist\Album\Song.wav*)
 --------|-------------------------------|-----------------------------------------------------------------
 (p)   	| Input file path				| C:\Music\Artist\Album\
-(p:d) 	| My documents folder path		| C:\Users\UserName\Documents\
-(p:m)	| My music folder path			| C:\Users\UserName\Music\
-(p:v)	| My videos folder path			| C:\Users\UserName\Videos\
+(p:d) 	| My documents folder path			| C:\Users\UserName\Documents\
+(p:m)	| My music folder path				| C:\Users\UserName\Music\
+(p:v)	| My videos folder path				| C:\Users\UserName\Videos\
 (p:p)	| My pictures path				| C:\Users\UserName\Pictures\
 (f)  	| Input file name				| Song
-(o)		| Output file format			| mp3
-(i)		| Input file format				| wav
-(d0)	| Input parent folder name		| Album
-(d1)	| Input sub parent folder name	| Artist
+(o)	| Output file format				| mp3
+(i)	| Input file format				| wav
+(d0)	| Input parent folder name			| Album
+(d1)	| Input sub parent folder name			| Artist
+(n:i)	| Page number index				| (usefull for documents like pdf)
+(n:c)	| Total page count				| (usefull for documents like pdf)
 
 *Tips: You can use uppercase to retrieve caps lock informations. Example: (f) -> Default / (F) -> DEFAULT*
 
@@ -41,3 +43,9 @@ CDA extraction:
 	Input: E:\Track01.cda
 	Template: (p:m)CDA Extraction\(f)
 	Generated output: C:\Users\UserName\Music\CDA Extraction\Track01.mp3
+
+Pdf to image:
+		
+	Input: C:\Documents\TwoPagesDocument.pdf
+	Template: (p)(f) (n:i) of (n:c)
+	Generated outputs: C:\Documents\TwoPagesDocument 1 of 2.png and C:\Documents\TwoPagesDocument 2 of 2.png
