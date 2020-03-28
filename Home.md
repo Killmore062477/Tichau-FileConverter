@@ -16,7 +16,7 @@
 
 ## Contribute
 
-[[Setup-development-environment]]
+[[Setup your development environment|Setup-development-environment]]
 
 [[Localization]]
 
