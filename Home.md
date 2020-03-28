@@ -16,6 +16,8 @@
 
 ## Contribute
 
+[[Setup-development-environment]]
+
 [[Localization]]
 
 ## License
