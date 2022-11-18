@@ -6,7 +6,7 @@ You can help File Converter adding new supported languages to the application. H
 - Checkout the "integration" branch to have the latest version of File Converter project.
 - Go to project folder FileConverter\Application\FileConverter\Properties\.
 - Duplicate the file _Resources.resx_ and rename it _Resources.{language-culture-name}.resx_. 
-You can find the list of the language culture names here: [Table of Language Culture Names](https://msdn.microsoft.com/library/ee825488(v=cs.20).aspx).
+You can find the list of the language culture names here: [Table of Language Culture Names](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c).
 For example to create the french localization resources file, name the file _Resources.fr-FR.resx_.
 - Edit the created file with your prefered text editor and fill all the data values.
 
