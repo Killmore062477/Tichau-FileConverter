@@ -20,6 +20,8 @@
 
 [[Localization]]
 
+You can use this website to get some sample of specific file formats: [filesamples.com](https://filesamples.com/)
+
 ## License
 
 File Converter is licensed under the GPL version 3 License.
