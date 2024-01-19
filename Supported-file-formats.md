@@ -5,7 +5,7 @@ Category 	| Supported output formats	| Compatible input formats
  Image		| png, jpg, ico, webp		| bmp, exr, ico, jpg, jpeg, png, psd, svg, tiff, tga, webp, pdf, doc, docx, odt, odp, ods, ppt, pptx, xls, xlsx
  Document       | pdf 				| doc, docx, odt, odp, ods, ppt, pptx, xls, xlsx, bmp, exr, ico, jpg, jpeg, png, psd, svg, tiff, tga
 
-**You need to have Microsoft Office installed in order to convert Office documents.**
+**You need to have Microsoft Office 2013 (or a more recent version) installed in order to convert Office documents.**
 
 *Note: If your source file is a video, the conversion to an audio format will extract the audio part of the video.*
 
