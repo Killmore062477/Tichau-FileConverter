@@ -15,7 +15,7 @@ Pattern		| Description				| Example (with input path: *C:\Music\Artist\Album\Son
 (d1)		| Input sub parent folder name		| Artist
 (n:i)		| Page number index			| (usefull for documents like pdf)
 (n:c)		| Total page count			| (usefull for documents like pdf)
-(d:_format_)	| Date using [.net ToString format](https://learn.microsoft.com/en-us/dotnet/api/system.datetime.tostring?view=net-8.0). Available for version >= 2.0 | 6.15.2008 9'15'07 PM
+(d:_format_)	| Date using [.net ToString format](https://learn.microsoft.com/en-us/dotnet/api/system.datetime.tostring?view=net-8.0). Available for version >= 2.0 | 6-15-2008 9'15'07 PM
 
 *Tips: You can use uppercase to retrieve caps lock informations. Example: (f) -> Default / (F) -> DEFAULT*
 
