@@ -9,12 +9,15 @@ When you report an issue, please join the following informations:
 * The Diagnostics folder of the session that encountered the issue.
 * A screenshot (if possible) and a description that shows/explain the issue.
 
-You will find the xml files and diagnostics folder in `c:\Users\[UserName]\AppData\Local\FileConverter\`.
+You will find the xml files and diagnostics folder in `%localappdata%\FileConverter\`.
 
 ## Known Issues
 
 ### Installer failed to succeed
-Maybe you don't have Microsoft .NET Framework 4.5 installed on your PC. You can download the installer [here](https://www.microsoft.com/download/details.aspx?id=30653).
+
+Maybe you don't have Microsoft .NET Framework 4.8 installed on your PC. You can download the installer [here](https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer).
+
+**For File Converter [<=v1.2.3]**, it's Microsoft .NET Framework 4.5. You can download the installer [here](https://www.microsoft.com/download/details.aspx?id=30653).
 
 ### Incompatibility with Avast antivirus [<v1.0]
 An incompatibility has been found with Avast antivirus program. When the Avast file watcher is activated, file converter cannot be launch and freeze the window explorer. To fix that issue you need to deactivate the file watcher or uninstall Avast. No other workaround has been found for now.
