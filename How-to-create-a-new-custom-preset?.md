@@ -8,7 +8,7 @@ Let's create a simple preset that will resize your photo files in two clicks.
 
 1. Open the file converter settings using the shortcut in the windows start menu (or via the context menu).
 
-2. Right clic on the preset list and select 'New Preset' to create a new preset (you can also duplicate an existing one by right clicking on it).
+2. Right-click on the preset list and select 'New Preset' to create a new preset (you can also duplicate an existing one by right clicking on it).
  
 ![tutorial1-1](https://github.com/Tichau/FileConverter/assets/3792144/e996449c-ccb1-4ec2-a18f-41f7398c8f2c)
 
